@@ -112,5 +112,5 @@ def channel_results(reduced_data, outliers, pca_samples):
 
 	# Set plot title
 	ax.set_title("PCA-Reduced Data Labeled by 'Channel'\nTransformed Sample Data Circled");
-plt.savefig('CustomerSegmentsClustering.png', dpi=400)
+#plt.savefig('CustomerSegmentsClustering.png', dpi=400)
     
