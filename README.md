@@ -1,4 +1,5 @@
 # Constructing Customer Classes/Segments
+![Image](https://github.com/gmsardane/Customer-Segments/blob/master/CustomerSegmentsClustering.png)
 This project is an analysis of a dataset containing data on various customers' annual spending amounts 
 (reported in monetary units) of diverse product categories for internal structure. 
 The major goal of this project is to best describe the variation in the different types of customers that a 
@@ -16,4 +17,4 @@ This analysis employs PCA for dimensionality reduction, prior to clustering. The
 # Tools:
 Python, Pandas, sklearn (PCA, GMM, metrics), numpy, matplotlib, seaborn
 
-![Image](https://github.com/gmsardane/Customer-Segments/blob/master/CustomerSegmentsClustering.png)
+
