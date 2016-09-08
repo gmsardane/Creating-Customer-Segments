@@ -15,3 +15,5 @@ This analysis employs PCA for dimensionality reduction, prior to clustering. The
 
 # Tools:
 Python, Pandas, sklearn (PCA, GMM, metrics), numpy, matplotlib, seaborn
+
+![Image](https://github.com/gmsardane/Customer-Segments/blob/master/CustomerSegmentsClustering.png)
