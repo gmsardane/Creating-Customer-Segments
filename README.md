@@ -15,6 +15,6 @@ categories of multiple types in a dataset are also made, and then checked agains
 This analysis employs PCA for dimensionality reduction, prior to clustering. The silhouette score is used to determine the number of clusters.
 
 # Tools:
-Python, Pandas, sklearn (PCA, GMM, metrics), numpy, matplotlib, seaborn
+Python, Pandas, sklearn (PCA, GMM clustering, metrics), numpy, matplotlib, seaborn
 
 
