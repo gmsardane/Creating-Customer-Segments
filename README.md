@@ -1,4 +1,5 @@
 # Constructing Customer Segments
+
 ## Project Overview
 ![Image](https://github.com/gmsardane/Customer-Segments/blob/master/CustomerSegmentsClustering.png)
 This project is an analysis of a dataset containing data on various customers' annual spending amounts 
